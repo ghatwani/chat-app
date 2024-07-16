@@ -1,0 +1,1 @@
+export const blueColor = "rgb(82 113 255)";
